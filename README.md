@@ -2,8 +2,8 @@
 I am Ahmad Salar, a software developer from Afghanistan.
 
 ## Projects
-[cs50finance](https://github.com/2003salar/CS50x-Finance), A Flask web application for managing stock portfolio.
-[currencyconverter](https://github.com/2003salar/currencyconverter), A web application for converting currencies.
+- [cs50finance](https://github.com/2003salar/CS50x-Finance), A Flask web application for managing stock portfolio.
+- [currencyconverter](https://github.com/2003salar/currencyconverter), A web application for converting currencies.
 
 ## Courses
 At [Harvard University](cs50.harvard.edu), I took the following courses:
